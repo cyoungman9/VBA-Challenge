@@ -65,7 +65,6 @@ y = 2
     j = j + 1
     vol = 0
     y = i + 1
-    ' so now y = 262+1
     
 
 Else
