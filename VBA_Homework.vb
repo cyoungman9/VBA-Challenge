@@ -75,11 +75,6 @@ Else
     
 Next i
 
-'lastrow = ws.Cells(Rows.Count, 10).End(xlUp).Row
-'For i = 2 To lastrow
-'If OV <> 0 Then
-
-
     Next ws
 
 End Sub
